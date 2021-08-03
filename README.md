@@ -10,7 +10,7 @@
 <p align="center">
  <img src='https://user-images.githubusercontent.com/69270095/124947179-fe301180-dfe5-11eb-8495-338bade70395.png' width="30vw"/> HTML5  |
  <img src='https://user-images.githubusercontent.com/69270095/124946896-c4f7a180-dfe5-11eb-9a47-03c1091c5bda.png' width="30vw"/> CSS3 |
- <img src='https://user-images.githubusercontent.com/69270095/124473337-92e00880-dd75-11eb-8439-6a8077f457d2.png' width="30vw"/> Javascript | 
+ <img src='https://user-images.githubusercontent.com/69270095/124473337-92e00880-dd75-11eb-8439-6a8077f457d2.png' width="30vw"/> Javascript 
 </p>
 
 <!--
